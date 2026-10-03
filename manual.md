@@ -4,7 +4,7 @@
 ### Encabezado 3
 #### Encabezado 4
 ##### Encabezado 5
-##### Encabezado 6
+###### Encabezado 6
 
 # Citas
 
@@ -44,8 +44,7 @@ mundo debe aprender por sí mismo al final***
 <https://enfoquenomada.com>
 
 ## Imagenes
-![Ebook navegador minimalista](https://enfoquenomada.com/
-wp-content/uploads/2016/07/Crear-navegador-minimalista.jpg)
+![Gato](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)
 
 ## Código
     Esto es codigo
